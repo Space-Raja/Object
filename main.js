@@ -5,7 +5,7 @@ model="";
 capture="";
 width=screen.width;
 videeo="";
-
+video="";
 
 /*
 let capture;
