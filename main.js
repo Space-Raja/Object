@@ -4,6 +4,7 @@ objects=[];
 model="";
 capture="";
 width=screen.width;
+videeo="";
 
 
 /*
