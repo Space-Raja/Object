@@ -14,7 +14,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   capture = createCapture({
     audio: false,
-    video: {
+    videeo: {
       facingMode: {
         exact: "environment"
       }
